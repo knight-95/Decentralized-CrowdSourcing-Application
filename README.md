@@ -29,3 +29,7 @@ Overall, the use of decentralized crowdsourcing projects can lead to more effici
 
 
 - Our project is based on Polygon, and our smart contract is deployed on Polygon Testnet
+
+
+<h3>Tech Stack used :</h3>
+<h5>ReactJS, Javascript, Solidity, Tailwind CSS, ThirdWeb, Polygon Testnet, Metamask</h5>
