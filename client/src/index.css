@@ -11,8 +11,55 @@
     #000000 87.01%
   );
 }
+#back{
+    /* background-color:#0f0e13;
+    background-image: 
+      radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), 
+      radial-gradient(at 50% 0%, hsla(225,39%,30%,1) 0, transparent 50%), 
+      radial-gradient(at 100% 0%, hsla(339,49%,30%,1) 0, transparent 50%); */
+      background-color: #000000;
+      background-image: url('./assets/background2.jpeg') ;
+      background-size: cover;
+  }
 
 input[type="date"]::-webkit-calendar-picker-indicator {
   cursor: pointer;
   filter: invert(0.8);
 }
+
+
+#btn-grad {
+  background-image: linear-gradient(to right, #4776E6 0%, #8E54E9  51%, #4776E6  100%);
+  margin-right: 10px;
+  /* padding: 15px 45px; */
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  /* box-shadow: 0 0 20px #eee; */
+  font-family: sans-serif;
+  border-radius: 10px;
+  display: block;
+  letter-spacing: 0.1em;
+}
+
+#btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+
+#side,#crtcomp, #search-bar, #card, #count-box, #fund-comp {
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: rgba(31, 38, 135, 0.37) 0px 8px 32px 0px;
+  backdrop-filter: blur(8.5px);
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+}
+
+#icons{
+  color: #fff;
+}
+
