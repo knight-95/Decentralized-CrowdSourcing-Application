@@ -1,8 +1,11 @@
-# Decentralized CrowdSourcing Application
+# Decentralized CrowdSourcing Application:
 
 <img width="1276" alt="Screenshot 2023-02-11 at 22 51 21" src="https://user-images.githubusercontent.com/79582395/218273498-211223f2-4a7f-4da3-8b83-93caa64fd3ed.png">
  
- <h3>What our project focuses on:</h3>
+ <h1>Live Deployed Link: https://crowdsourcing.netlify.app/</h1>
+ <h3> - Used Polygon Testnet for Smart Contract Deployment</h3>
+ 
+ # What our project focuses on:
 
 - Decentralization: The lack of central authority ensures that the project is not controlled by a single entity, reducing the risk of censorship, manipulation, and data breaches.
 
