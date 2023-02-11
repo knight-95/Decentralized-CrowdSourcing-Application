@@ -32,6 +32,7 @@ Overall, the use of decentralized crowdsourcing projects can lead to more effici
 
 <h3>Verifying transaction on Polygon network</h3>
 
+- <p>Contract Verification and transaction status at : https://mumbai.polygonscan.com/address/0x57653e8310817a8c9538E9EE90cc0cce9295d0bE</p>
 <img width="1279" alt="Screenshot 2023-02-11 at 23 31 11" src="https://user-images.githubusercontent.com/79582395/218273905-6d2cf863-75a0-4896-8e1f-ea626f79388c.png">
 
 
@@ -39,4 +40,4 @@ Overall, the use of decentralized crowdsourcing projects can lead to more effici
 
 
 <h3>Tech Stack used :</h3>
-<h5>ReactJS, Javascript, Solidity, Tailwind CSS, ThirdWeb, Polygon Testnet, Metamask</h5>
+<h5>ReactJS, Javascript, Solidity, Tailwind CSS, ThirdWeb, Polygon Testnet, Metamask, Replit</h5>
