@@ -26,7 +26,7 @@ Overall, the use of decentralized crowdsourcing projects can lead to more effici
 <h3>Creating a campaign </h3>
 <img width="1272" alt="Screenshot 2023-02-11 at 22 51 56" src="https://user-images.githubusercontent.com/79582395/218273848-d1680215-a895-4592-aa75-098d760827da.png">
 
-- Here we can add the amount of MATIC we want to raise
+- Here we can add the amount of <b>MATIC</b> we want to raise
 - We can additionally provide with the relevant image
 
 
